@@ -130,7 +130,7 @@ def Suite():
     testunit.addTest(TestApi("test_add_custom"))
     testunit.addTest(TestApi("test_edit_custom"))
     testunit.addTest(TestApi("test_delete_custom"))
-    testunit.addTest(TestApi("test_get_unionquery"))
+    #testunit.addTest(TestApi("test_get_unionquery"))
     testunit.addTest(TestApi("test_error_pwd"))
     testunit.addTest(TestApi("test_find_car"))
     testunit.addTest(TestApi("test_choose_car"))
