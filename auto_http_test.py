@@ -2,7 +2,7 @@
 import unittest
 import time
 
-from mock import self
+#from mock import self
 
 from HttpLibrary import HttpApi
 import HTMLTestRunner
